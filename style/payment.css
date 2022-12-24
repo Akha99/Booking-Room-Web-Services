@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../image/wall.jpg");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    
+    
+}
+
+.container{
+    content: "";
+    background: url(gambar.jpg) no-repeat center center/cover;
+    position: absolute;
+    height: 50px;
+    width: 100%;
+    z-index: -1;
+}
+
+
+.container .title{
+    padding: 40px px;
+}
+.container .title .content{
+    width: 950px;
+    margin: auto;
+    padding: 75px 0;
+    text-align: start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000;
+}
+.container .title .content h1{
+    width: 650px;
+    margin: auto;
+    font-size: 3.1rem;
+    text-align: start;
+}
+.container .title .content h2{
+    width: 650px;
+    margin: auto;
+    font-size: 1.6rem;
+    text-align: start;
+}
+
+h3{
+    line-height: 22px;
+    letter-spacing: 1.5px;
+}
+.btn1 button {
+    width: 160px;
+  height: 45px;
+  border: 2px solid;
+  background: #2691d9   ;
+  border-radius: 16px;
+  font-size: 18px;
+  color: #e9f4fb;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none;
+  }
+
+  .btn1 button a{
+    padding: 0.10px;
+    text-decoration: none;
+    color: #fff;
+  }
+ 
+  .content h1{
+    font-size: 35px;
+  }

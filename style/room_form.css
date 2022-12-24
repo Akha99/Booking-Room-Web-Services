@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+button {
+    width: 190px;
+  height: 55px;
+  border: 2px solid;
+  background: #2691d9   ;
+  border-radius: 16px;
+  font-size: 18px;
+  color: #e9f4fb;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none;
+  }
+
+ button a{
+    padding: 0.10px;
+    text-decoration: none;
+    color: #fff;
+  }
+
+
+  
+

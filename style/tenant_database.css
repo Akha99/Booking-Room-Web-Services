@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .table {
+    position: absolute;
+    
+  }
+
+  .btn1 button {
+    width: 160px;
+  height: 45px;
+  border: 2px solid;
+  background: #2691d9   ;
+  border-radius: 16px;
+  font-size: 18px;
+  color: #e9f4fb;
+  font-weight: 700;
+  cursor: pointer;
+  outline: none;
+  }
+
+  .btn1 button a{
+    padding: 0.10px;
+    text-decoration: none;
+    color: #fff;
+  }
+td button{
+    width: 90px;
+  background: #2691d9   ;
+  font-size: 18px;
+  color: #e9f4fb;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+}
+td button a{
+    padding: 0.10px;
+    text-decoration: none;
+    color: #e9f4fb;
+}
+
+h2{
+  font-weight: 700;
+}
+
+
